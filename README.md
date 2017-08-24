@@ -12,7 +12,7 @@ concepts into one authentication system.
 
 ## Running the Project
 - Run `npm install` to download the dependencies.
-- Keep `mongod --dbpath data` running in its own terminal.
+- Keep `  ` running in its own terminal.
 - Run `npm test` to run the tests. If you'd like, you can run `npm run watch`
   to automatically re-reun the tests when you make modifications.
 - To test your application in your browser, or by using
